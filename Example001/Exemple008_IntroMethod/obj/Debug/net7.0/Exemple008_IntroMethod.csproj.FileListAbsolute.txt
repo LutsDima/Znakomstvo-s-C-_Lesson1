@@ -1,0 +1,15 @@
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/bin/Debug/net7.0/Exemple008_IntroMethod
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/bin/Debug/net7.0/Exemple008_IntroMethod.deps.json
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/bin/Debug/net7.0/Exemple008_IntroMethod.runtimeconfig.json
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/bin/Debug/net7.0/Exemple008_IntroMethod.dll
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/bin/Debug/net7.0/Exemple008_IntroMethod.pdb
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.csproj.AssemblyReference.cache
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.AssemblyInfoInputs.cache
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.AssemblyInfo.cs
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.dll
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/refint/Exemple008_IntroMethod.dll
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.pdb
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/Exemple008_IntroMethod.genruntimeconfig.cache
+/Users/dmitrij/Documents/GeekBrain/C#/Lessons/Znakomstvo-s-C-_Lesson1/Example001/Exemple008_IntroMethod/obj/Debug/net7.0/ref/Exemple008_IntroMethod.dll
